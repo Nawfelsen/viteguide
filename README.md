@@ -1,7 +1,7 @@
 # Vite
 
 <center>
-<img src="../assets/vite_logo.jpg" alt="vite logo" width="300" margin-left="500"/>
+<img src="./assets/vite-logo.jpeg" alt="vite logo" width="300" margin-left="500"/>
 </center>
 
 ## Introduction
